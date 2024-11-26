@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "https://cdn.jsdelivr.net/gh/intervac-ddc-moph-go-th/vc-assets@2.6.3/build/static/css/main.4e6b3a51.css",
-    "main.js": "https://cdn.jsdelivr.net/gh/intervac-ddc-moph-go-th/vc-assets@2.6.3/build/static/js/main.7c9ab9cb.js",
-    "static/js/496.1205385f.chunk.js": "https://cdn.jsdelivr.net/gh/intervac-ddc-moph-go-th/vc-assets@2.6.3/build/static/js/496.1205385f.chunk.js",
-    "static/media/ministry-of-public-health-logo.png": "https://cdn.jsdelivr.net/gh/intervac-ddc-moph-go-th/vc-assets@2.6.3/build/static/media/ministry-of-public-health-logo.681b798f55141c09e5ab.png",
-    "static/media/ministry-of-public-health-logo-full.png": "https://cdn.jsdelivr.net/gh/intervac-ddc-moph-go-th/vc-assets@2.6.3/build/static/media/ministry-of-public-health-logo-full.92f073a7d7f72fd0e5e3.png",
-    "index.html": "https://cdn.jsdelivr.net/gh/intervac-ddc-moph-go-th/vc-assets@2.6.3/build/index.html",
-    "main.4e6b3a51.css.map": "https://cdn.jsdelivr.net/gh/intervac-ddc-moph-go-th/vc-assets@2.6.3/build/static/css/main.4e6b3a51.css.map",
-    "main.7c9ab9cb.js.map": "https://cdn.jsdelivr.net/gh/intervac-ddc-moph-go-th/vc-assets@2.6.3/build/static/js/main.7c9ab9cb.js.map",
-    "496.1205385f.chunk.js.map": "https://cdn.jsdelivr.net/gh/intervac-ddc-moph-go-th/vc-assets@2.6.3/build/static/js/496.1205385f.chunk.js.map"
+    "main.css": "https://cdn.jsdelivr.net/gh/intervac-ddc-moph-go-th/vc-assets@3.0.0/build/static/css/main.4e6b3a51.css",
+    "main.js": "https://cdn.jsdelivr.net/gh/intervac-ddc-moph-go-th/vc-assets@3.0.0/build/static/js/main.43871986.js",
+    "static/js/496.1205385f.chunk.js": "https://cdn.jsdelivr.net/gh/intervac-ddc-moph-go-th/vc-assets@3.0.0/build/static/js/496.1205385f.chunk.js",
+    "static/media/ministry-of-public-health-logo.png": "https://cdn.jsdelivr.net/gh/intervac-ddc-moph-go-th/vc-assets@3.0.0/build/static/media/ministry-of-public-health-logo.681b798f55141c09e5ab.png",
+    "static/media/ministry-of-public-health-logo-full.png": "https://cdn.jsdelivr.net/gh/intervac-ddc-moph-go-th/vc-assets@3.0.0/build/static/media/ministry-of-public-health-logo-full.92f073a7d7f72fd0e5e3.png",
+    "index.html": "https://cdn.jsdelivr.net/gh/intervac-ddc-moph-go-th/vc-assets@3.0.0/build/index.html",
+    "main.4e6b3a51.css.map": "https://cdn.jsdelivr.net/gh/intervac-ddc-moph-go-th/vc-assets@3.0.0/build/static/css/main.4e6b3a51.css.map",
+    "main.43871986.js.map": "https://cdn.jsdelivr.net/gh/intervac-ddc-moph-go-th/vc-assets@3.0.0/build/static/js/main.43871986.js.map",
+    "496.1205385f.chunk.js.map": "https://cdn.jsdelivr.net/gh/intervac-ddc-moph-go-th/vc-assets@3.0.0/build/static/js/496.1205385f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4e6b3a51.css",
-    "static/js/main.7c9ab9cb.js"
+    "static/js/main.43871986.js"
   ]
 }
